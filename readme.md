@@ -1,14 +1,9 @@
-# SkyOffice ![License](https://img.shields.io/badge/license-MIT-blue) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
 
-<img alt="Logo" align="right" src="https://user-images.githubusercontent.com/11501902/139942585-a6b044ce-3695-460a-91bd-dd9f1d4611c8.png" width="20%" />
 
 An immersive virtual office - Winner of [2021 Monte Jade Innovation Competition](http://www.montejadese.org/pages/mjic.html)
 
-- Come try it out - [Official Website](https://sky-office.co/)
-- Why we built this - [Concept Video](https://www.youtube.com/watch?v=BpDqGTPh8pc)
-
 SkyOffice works on all PC browsers (mobile browsers are currently not supported)
-### SkyOffice is constantly improving, follow our [Twitter](https://twitter.com/SkyOfficeApp) to get latest updates
+### SkyOffice is constantly improving, follow our [Twitter](https://twitter.com/Abhishek9908) to get latest updates
 
 ## Built with
 - [Phaser3](https://github.com/photonstorm/phaser) - Game Engine
@@ -83,12 +78,5 @@ cd SkyOffice/client or 'my-folder-name/client'
 npm install && npm run start
 ```
 
-## Credits 🎉
-
-Big thanks to this great repo - [ourcade/phaser3-typescript-parcel-template](https://github.com/ourcade/phaser3-typescript-parcel-template)
-
-Big thanks to pixel artist - [LimeZu](https://limezu.itch.io/)
-
-## License
 
 [MIT License](https://github.com/kevinshen56714/SkyOffice/blob/master/LICENSE)
