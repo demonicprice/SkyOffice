@@ -1,9 +1,4 @@
-
-
-An immersive virtual office - Winner of [2021 Monte Jade Innovation Competition](http://www.montejadese.org/pages/mjic.html)
-
-SkyOffice works on all PC browsers (mobile browsers are currently not supported)
-### SkyOffice is constantly improving, follow our [Twitter](https://twitter.com/Abhishek9908) to get latest updates
+follow our [Twitter](https://twitter.com/Abhishek9908) to get latest updates
 
 ## Built with
 - [Phaser3](https://github.com/photonstorm/phaser) - Game Engine
