@@ -50,13 +50,13 @@ You'll need [Node.js](https://nodejs.org/en/), [npm](https://www.npmjs.com/) ins
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/kevinshen56714/SkyOffice.git
+git clone https://github.com/demonicprice/SkyOffice
 ```
 
 This will create a folder named `SkyOffice`. You can specify a different folder name like this:
 
 ```bash
-git clone https://github.com/kevinshen56714/SkyOffice.git my-folder-name
+git clone https://github.com/demonicprice/SkyOffice my-folder-name
 ```
 
 To start a server, go into the project folder and install dependencies/run start command:
@@ -72,6 +72,3 @@ To start a client, go into the client folder and install dependencies/run start 
 cd SkyOffice/client or 'my-folder-name/client'
 npm install && npm run start
 ```
-
-
-[MIT License](https://github.com/kevinshen56714/SkyOffice/blob/master/LICENSE)
