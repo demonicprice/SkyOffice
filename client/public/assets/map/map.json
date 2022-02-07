@@ -4025,13 +4025,13 @@
          "objects":[
                 {
                      "gid":4683,
-                     "height":64,
+                     "height":70,
                      "id":875,
                      "name":"",
                      "rotation":0,
                      "type":"",
                      "visible":true,
-                     "width":96,
+                     "width":100,
                      "x":300,
                      "y":700
                 }, 
