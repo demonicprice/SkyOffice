@@ -4024,6 +4024,18 @@
          "name":"Computer",
          "objects":[
                 {
+                     "gid":4683,
+                     "height":64,
+                     "id":875,
+                     "name":"",
+                     "rotation":0,
+                     "type":"",
+                     "visible":true,
+                     "width":96,
+                     "x":300,
+                     "y":700
+                }, 
+                {
                  "gid":4680,
                  "height":64,
                  "id":875,
