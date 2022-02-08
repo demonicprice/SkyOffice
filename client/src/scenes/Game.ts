@@ -94,7 +94,7 @@ export default class Game extends Phaser.Scene {
     const computerLayer = this.map.getObjectLayer('Computer')
     computerLayer.objects.forEach((obj, i) => {
       const item = this.addObjectFromTiled(computers, obj, 'computers', 'computer') as Computer
-      item.setDepth(item.y + item.height * 1)
+      item.setDepth(item.y + item.height * 0.27)
       const id = `${i}`
       item.id = id
       this.computerMap.set(id, item)
